@@ -2,7 +2,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 
-const IMAGES = ["1.png", "2.png", "3.PNG", "7.png",  "6.png", "8.png"];
+const IMAGES = ["1.png", "2.png", "3.png", "7.png",  "6.png", "8.png"];
 
 const FRAME_OFFSET = -30;
 const FRAMES_VISIBLE_LENGTH = 3;
