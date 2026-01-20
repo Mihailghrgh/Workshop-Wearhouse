@@ -1,22 +1,7 @@
 "use client";
 
-import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
-import { Badge } from "lucide-react";
-import { Input } from "@/components/ui/input";
-import { Separator } from "@/components/ui/separator";
-import MotionDiv from "@/components/Testing/MotionDivTest";
+
 import Hero from "@/components/Hero/Hero";
-import {
-  ShoppingBag,
-  Search,
-  ArrowRight,
-  Plus,
-  Settings,
-  Zap,
-  Hammer,
-  Package,
-} from "lucide-react";
 import { Carousel } from "@/components/Carousel/Carousel";
 import Categories from "@/components/Categories/Categories";
 import Image from "next/image";
